@@ -16,3 +16,4 @@ echo "\n";
 if ($flinstoneCar instanceof SafeCar) {
     $flinstoneCar->drive(200);
 }
+
